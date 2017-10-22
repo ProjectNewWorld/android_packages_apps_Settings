@@ -29,4 +29,7 @@
     <string name="pnw_settings_activity">PNW Settings</string>
     <string name="pnw_settings_activity_summary">Create a new world</string>
 
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Screenshot sound</string>
+
 </resources>
