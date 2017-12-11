@@ -71,6 +71,11 @@
                 android:title="@string/firmware_version"
                 android:summary="@string/summary_placeholder"/>
 
+        <!-- Device Pnw version -->
+        <Preference android:key="pnw_version"
+                android:title="@string/pnw_version"
+                android:summary="@string/pnw_version_default" />
+
         <!-- Security patch level -->
         <Preference android:key="security_patch"
                 android:title="@string/security_patch"
