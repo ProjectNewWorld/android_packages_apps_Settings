@@ -24,4 +24,9 @@
     <!-- Rom version -->
     <string name="pnw_version">Project New World version</string>
     <string name="pnw_version_default">Unknown</string>
+
+	<!-- Pnw Settings -->
+    <string name="pnw_settings_activity">Project New World</string>
+    <string name="pnw_settings_activity_summary">Project New World settings</string>
+
 </resources>
