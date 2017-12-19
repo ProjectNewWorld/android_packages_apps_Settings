@@ -21,9 +21,11 @@ import android.os.SystemProperties;
 import android.support.v7.preference.Preference;
 import android.text.TextUtils;
 
-import com.android.settings.core.PreferenceController;
+import com.android.settings.core.PreferenceControllerMixin;
+import com.android.settingslib.core.AbstractPreferenceController;
 
-public class PnwVersionPreferenceController extends PreferenceController {
+public class PnwVersionPreferenceController extends AbstractPreferenceController
+        implements PreferenceControllerMixin {
 
     private static final String KEY_PNW_VERSION = "pnw_version";
     private static final String KEY_PNW_VERSION_PROPERTY = "ro.pnw.version";
