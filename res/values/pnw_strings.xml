@@ -72,4 +72,8 @@
     <!-- Security Settings screen Encryption and crendential summary -->
     <string name="encryption_and_credential_settings_summary_disabled" product="tablet">Device is not encrypted</string>
 
+    <!-- Poor man's battery stile tweaks -->
+    <string name="battery_image">Battery image</string>
+    <string name="battery_image_description">Show battery image in status bar</string>
+
 </resources>
