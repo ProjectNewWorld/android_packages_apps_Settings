@@ -25,6 +25,11 @@
                     android:targetClass="@string/additional_system_update_menu" />
         </Preference>
 
+        <!-- Project New world banner -->
+        <PreferenceScreen android:key="pnw_banner"
+                android:enabled="false"
+                android:layout="@layout/pnw_about_banner" />
+
         <!-- Device status - launches activity -->
         <Preference android:key="status_info"
                 android:title="@string/device_status"
