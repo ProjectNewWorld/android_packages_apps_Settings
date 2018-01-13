@@ -254,7 +254,8 @@ public class SettingsGateway {
             WebViewAppPicker.class.getName(),
             LockscreenDashboardFragment.class.getName(),
             BluetoothDeviceDetailsFragment.class.getName(),
-            DataUsageList.class.getName()
+            DataUsageList.class.getName(),
+            PnwSettings.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
