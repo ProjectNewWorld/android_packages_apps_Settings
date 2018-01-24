@@ -27,6 +27,6 @@
 
     <!-- Pnw Settings -->
     <string name="pnw_settings_activity">PNW Settings</string>
-    <string name="pnw_settings_activity_summary">Creat a new world</string>
+    <string name="pnw_settings_activity_summary">Create a new world</string>
 
 </resources>
